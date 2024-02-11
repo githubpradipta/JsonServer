@@ -7,5 +7,20 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "Car":[
+    {
+      "id": 101,
+      "name": "Supra"
+    },
+    {
+      "id": 102,
+      "name": "Lanborgini"
+    },
+    {
+      "id": 103,
+      "name": "BMW"
+    }
+      
+  ]
 }
